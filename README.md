@@ -1,6 +1,9 @@
 # hcl_zgaf_ex_pr2
 
-A new Flutter project.
+Proyecto de Flutter Creado por:
+Fabricio Zacarías Guzmán
+y
+Lilian Hernández Contreras
 
 ## Getting Started
 
